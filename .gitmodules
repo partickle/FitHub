@@ -4,6 +4,3 @@
 [submodule "FitHub_BE"]
 	path = FitHub_BE
 	url = https://github.com/partickle/FitHub_BE
-[submodule "FitHub_Docs"]
-	path = FitHub_Docs
-	url = https://github.com/partickle/FitHub_Docs
