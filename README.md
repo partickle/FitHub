@@ -22,3 +22,4 @@
 ## Презентации
 * [Презентация технического задания.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pptx)
 * [Презентация технического задания.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pdf)
+* [Видеопрезентация технического задания](https://youtu.be/UzlhINb-NV0)
