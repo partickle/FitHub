@@ -17,8 +17,8 @@
 ## Документация
 * [Сопроводительное письмо.docx](https://github.com/partickle/FitHub_Docs/blob/main/Сопроводительное%20письмо.docx)
 * [Сопроводительное письмо.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Сопроводительное%20письмо.docx)
-* [Техническое задание.docx](https://github.com/partickle/FitHub_Docs/blob/main/Техническое20%задание.docx)
-* [Техническое задание.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Техническое20%задание.pdf)
+* [Техническое задание.docx](https://github.com/partickle/FitHub_Docs/blob/main/Техническое%20задание.docx)
+* [Техническое задание.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Техническое%20задание.pdf)
 ## Презентации
-* [Презентация технического задания.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация20%технического20%задания.pptx)
-* [Презентация технического задания.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация20%технического20%задания.pdf)
+* [Презентация технического задания.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pptx)
+* [Презентация технического задания.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pdf)
