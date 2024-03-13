@@ -16,7 +16,7 @@
 * [Miro](https://miro.com/app/board/uXjVNh2G7-A=/)
 ## Документация
 * [Сопроводительное письмо.docx](https://github.com/partickle/FitHub_Docs/blob/main/Сопроводительное%20письмо.docx)
-* [Сопроводительное письмо.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Сопроводительное%20письмо.docx)
+* [Сопроводительное письмо.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Сопроводительное%20письмо.pdf)
 * [Техническое задание.docx](https://github.com/partickle/FitHub_Docs/blob/main/Техническое%20задание.docx)
 * [Техническое задание.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Техническое%20задание.pdf)
 * [Оформительские задачи.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Оформительские%20задачи.pdf)
