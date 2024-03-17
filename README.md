@@ -3,9 +3,9 @@
 ## TP-6.6-48
 
 ### Участники:
-* [Путилин Максим](https://github.com/partickle/) - team lead, project manager, технический писатель, backend
-* [Тернавский Даниил](https://github.com/Ternavksy) - бизнес аналитик, дизайнер, frontend
-* [Таранцов Иван](https://github.com/Shish-ai-ai) - системный аналитик, QA, frontend
+* [Путилин Максим](https://github.com/partickle/) - team lead, project manager, технический писатель, mobile developer
+* [Тернавский Даниил](https://github.com/Ternavksy) - бизнес аналитик, дизайнер, mobile developer
+* [Таранцов Иван](https://github.com/Shish-ai-ai) - системный аналитик, QA, backend developer
 ### Тема:
 Приложение для индивидуальных домашних тренировок.
 ### Описание проекта:
