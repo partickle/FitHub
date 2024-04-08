@@ -1,3 +1,9 @@
 [submodule "FitHub_Docs"]
 	path = FitHub_Docs
 	url = https://github.com/partickle/FitHub_Docs
+[submodule "FitHub_Mobile"]
+	path = FitHub_Mobile
+	url = https://github.com/partickle/FitHub_Mobile
+[submodule "FitHub_BE"]
+	path = FitHub_BE
+	url = https://github.com/partickle/FitHub_BE
