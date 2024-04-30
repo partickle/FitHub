@@ -20,7 +20,10 @@
 * [Техническое задание.docx](https://github.com/partickle/FitHub_Docs/blob/main/Техническое%20задание.docx)
 * [Техническое задание.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Техническое%20задание.pdf)
 * [Оформительские задачи.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Оформительские%20задачи.pdf)
+* [Курсовая работа.docx](https://github.com/partickle/FitHub_Docs/blob/main/Курсовая%20работа.docx)
+* [Курсовая работа.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Курсовая%20работа.pdf)
 ## Презентации
 * [Презентация технического задания.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pptx)
 * [Презентация технического задания.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pdf)
 * [Видеопрезентация технического задания](https://youtu.be/vdsICoBKhFY)
+
