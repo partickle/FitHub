@@ -26,4 +26,5 @@
 * [Презентация технического задания.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pptx)
 * [Презентация технического задания.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pdf)
 * [Видеопрезентация технического задания](https://youtu.be/vdsICoBKhFY)
-
+* [Презентация аналитической модели и пользовательских сценариев.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Аналитическая%20модель%20и%20пользовательские%20сценарии.pptx)
+* [Презентация аналитической модели и пользовательских сценариев.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Аналитическая%20модель%20и%20пользовательские%20сценарии.pdf)
