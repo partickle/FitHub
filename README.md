@@ -27,14 +27,14 @@
 ## Презентации
 * [Презентация технического задания.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pptx)
 * [Презентация технического задания.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20технического%20задания.pdf)
-* [Видеопрезентация технического задания](https://youtu.be/vdsICoBKhFY)
 * [Презентация аналитической модели и пользовательских сценариев.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Аналитическая%20модель%20и%20пользовательские%20сценарии.pptx)
 * [Презентация аналитической модели и пользовательских сценариев.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Аналитическая%20модель%20и%20пользовательские%20сценарии.pdf)
-* [Видеопрезентация аналитической модели и пользовательских сценариев](https://youtu.be/pOqfdSGMtiA)
 * [Презентация проекта.pptx](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20проекта.pptx)
 * [Презентация проекта.pdf](https://github.com/partickle/FitHub_Docs/blob/main/Презентация%20проекта.pdf)
-* [Видеопрезентация проекта](https://youtu.be/W4NVKx_dYMQ)
-* [Гайд по использованию приложения](https://youtu.be/yuLetfyK10Y)
 ## Ссылки на видео
+* [Видеопрезентация технического задания](https://youtu.be/vdsICoBKhFY)
+* [Видеопрезентация аналитической модели и пользовательских сценариев](https://youtu.be/pOqfdSGMtiA)
+* [Видеопрезентация проекта](https://youtu.be/W4NVKx_dYMQ)
 * [Видео с архитектурой серверрной части](https://youtu.be/_daQwKUl7co)
 * [Видео с архитектурой клиентской части](https://youtu.be/bEKes4rWOFY)
+* [Гайд по использованию приложения](https://youtu.be/yuLetfyK10Y)
