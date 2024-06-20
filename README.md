@@ -36,4 +36,5 @@
 * [Видеопрезентация проекта](https://youtu.be/W4NVKx_dYMQ)
 * [Гайд по использованию приложения](https://youtu.be/yuLetfyK10Y)
 ## Ссылки на видео
-* [Видео с архитектурой Backend](https://youtu.be/_daQwKUl7co)
+* [Видео с архитектурой серверрной части](https://youtu.be/_daQwKUl7co)
+* [Видео с архитектурой клиентской части](https://youtu.be/bEKes4rWOFY)
